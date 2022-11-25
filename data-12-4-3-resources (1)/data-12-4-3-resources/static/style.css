@@ -1,0 +1,12 @@
+body {
+    background: linear-gradient(green, teal, navy);
+}
+
+body {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body {
+    border-width: thick;
+    border-style: dotted;
+}
